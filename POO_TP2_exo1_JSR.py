@@ -37,3 +37,4 @@ afficher(liste_test)
 print(get_valeur(liste_test, 5))
 print(afficher(deriver(liste_test)))
 print(deriver(liste_test))
+#Test
